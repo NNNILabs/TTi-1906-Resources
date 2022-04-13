@@ -2,8 +2,10 @@
  Teardown pictures, service manual and ROM image for the TTi-1906 5.5 Digit Bench Multimeter
  
 ## Images
-Main board:
+Main board - front:
 ![](https://github.com/NNNIIndia/TTi-1906-Resources/blob/main/Images/20220411_225221.jpg)
+Main board - back:
+![](https://github.com/NNNIIndia/TTi-1906-Resources/blob/main/Images/20220413_014010.jpg)
 Digital board - front:
 ![](https://github.com/NNNIIndia/TTi-1906-Resources/blob/main/Images/20220411_225243.jpg)
 Digital board - back:
